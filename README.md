@@ -1,0 +1,3 @@
+# bat-sample
+
+Manager.batをダブルクリックすればダウンロードします。
